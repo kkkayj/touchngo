@@ -1,0 +1,3 @@
+# Compiled program files - anyone can rebuild these from tng_wallet.cpp
+*.exe
+*.o
